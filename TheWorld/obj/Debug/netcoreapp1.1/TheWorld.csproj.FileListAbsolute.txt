@@ -1,0 +1,10 @@
+\\Mac\Home\code\training\Pluralsight\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+\\Mac\Home\code\training\Pluralsight\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+\\Mac\Home\code\training\Pluralsight\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+\\Mac\Home\code\training\Pluralsight\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+\\Mac\Home\code\training\Pluralsight\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+\\Mac\Home\code\training\Pluralsight\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+\\Mac\Home\code\training\Pluralsight\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+\\Mac\Home\code\training\Pluralsight\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+\\Mac\Home\code\training\Pluralsight\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
+\\Mac\Home\code\training\Pluralsight\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\wwwroot\img\logo.png
